@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 workshop_2/data
 workshop_2/cifar_net.pth
+workshop_3/yolov5
+workshop_3/chessSampleData
+workshop_3/chessSampleData.zip
